@@ -1,4 +1,7 @@
 {
+    "project": {
+        "name": "axo dark theme"
+    },
     "styles" : {
         "theme": "axodark"
     }
